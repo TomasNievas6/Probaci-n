@@ -18,6 +18,7 @@ public class HolaMundo {
         
         System.out.println("Hola Mundo");
         System.out.println("Coma Andan?, Como los trata la vida?");
+        System.out.println("Ojala esten bien y sigan igual");
     }
     
 }
